@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+https://mherman.org/blog/dockerizing-a-react-app/?fbclid=IwAR2t-xeqICnGj4QZMY3jBWdNnZ_t6jFnKCZ02r4SmtM-JMc2XhhjGXGEVAI#.XgrgWvuRyBo.facebook
 ## Available Scripts
 
 In the project directory, you can run:
